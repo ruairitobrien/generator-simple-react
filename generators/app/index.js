@@ -114,6 +114,11 @@ module.exports = class extends Generator {
       this.templatePath('src/home/HomePage.spec.js'),
       this.destinationPath('src/home/HomePage.spec.js')
     );
+
+    this.fs.copy(
+      this.templatePath('scripts/testSetup.js'),
+      this.destinationPath('scripts/testSetup.js')
+    );
   }
 
 };

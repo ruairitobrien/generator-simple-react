@@ -29,7 +29,8 @@ describe('generator-simple-react:app', function () {
       'src/index.jsx',
       'src/app.jsx',
       'src/home/HomePage.jsx',
-      'src/home/HomePage.spec.js'
+      'src/home/HomePage.spec.js',
+      'scripts/testSetup.js'
     ]);
   });
 });
