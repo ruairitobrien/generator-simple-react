@@ -1,4 +1,4 @@
-# generator-simple-react [![NPM version][npm-image]][npm-url] [ ![Codeship Status for ruairitobrien/generator-fire-phaser](https://app.codeship.com/projects/81ba7c80-8699-0134-9909-6a0fea6e4973/status?branch=master)](https://app.codeship.com/projects/183488) [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-simple-react [![NPM version][npm-image]][npm-url] [ ![Codeship Status for ruairitobrien/generator-simple-react](https://app.codeship.com/projects/df361c00-d74f-0134-dcb2-760971575778/status?branch=master)](https://app.codeship.com/projects/202992) [![Dependency Status][daviddm-image]][daviddm-url]
 > Generator for a simple react starter project.
 
 ## Installation
