@@ -25,7 +25,7 @@
     "webpack-dev-server": "^2.3.0"
   },
   "scripts": {
-    "build": "webpack .",
+    "build": "webpack",
     "start": "webpack-dev-server",
     "test": "mocha scripts/testSetup.js \"src/**/*.spec.js\" --reporter nyan",
     "test:watch": "npm run test -- --watch"
