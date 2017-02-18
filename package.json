@@ -43,7 +43,7 @@
     },
     "fix": true
   },
-  "repository": "ruairitobrien/generator-fire-phaser",
+  "repository": "ruairitobrien/generator-simple-react",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
